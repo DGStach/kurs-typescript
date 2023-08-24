@@ -1,4 +1,4 @@
-class BasicType{
+class basicType{
     name:string = 'Reksio';
     age: number = 5;
     colors: string[] = ['czarny', 'bialy'];
