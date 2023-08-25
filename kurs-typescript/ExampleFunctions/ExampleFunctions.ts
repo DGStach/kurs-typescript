@@ -1,4 +1,4 @@
-class exampleFunctions {
+class ExampleFunctions {
     msg: string = "Hello świecie"
     showMsg():void{
         console.log(this.msg);
@@ -24,7 +24,7 @@ class exampleFunctions {
 
 }
 
-var example = new exampleFunctions();
+var example = new ExampleFunctions();
 // example.showMsg()
 // example.hello()
 // example.hello1("ywswietlam funkcje ")
