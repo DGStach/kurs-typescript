@@ -1,0 +1,10 @@
+class ExampleFunctions {
+    msg: string = "Hello świecie"
+    showMsg(){
+        console.log(this.msg);
+    
+    }
+}
+
+var example = new ExampleFunctions();
+example.showMsg()
